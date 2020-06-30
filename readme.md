@@ -1128,4 +1128,4 @@ app.get('/flag.txt', (req, res) => {
 
 ![](https://i.imgur.com/w1QSvhy.png)
 
-Flag:`AIS3{h4v3_y0u_r34d_7h3_rh1n0_b00k?}``
+Flag:`AIS3{h4v3_y0u_r34d_7h3_rh1n0_b00k?}`
